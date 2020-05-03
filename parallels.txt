@@ -1,0 +1,13 @@
+#Parallels
+127.0.0.1 01-274b-0023.cdx.cedexis.net
+127.0.0.1 account.parallels.com
+127.0.0.1 blist.parallels.com
+127.0.0.1 blist.pdfm10.parallels.com
+127.0.0.1 c1016.glblcdn.net
+127.0.0.1 gp1.wpc.v2cdn.net
+127.0.0.1 registration.parallels.com
+127.0.0.1 report.parallels.com
+127.0.0.1 update.parallels.com
+127.0.0.1 vl.pdfm10.parallels.com
+127.0.0.1 webservices.pdfm10.parallels.com
+127.0.0.1 wpc.051c.edgecastcdn.net
